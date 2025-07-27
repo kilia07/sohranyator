@@ -35,7 +35,7 @@
 
 ## 🚀 Установка и запуск
 
-1. Скачайте `.exe` файл из раздела [Releases]([https://github.com/yourusername/saveas/releases](https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe)).
+1. Скачайте `.exe` файл из раздела [Releases](https://github.com/kilia07/sohranyator/releases).
 2. Запустите файл. Установка не требуется (portable).
 
 > ⚠️ Необходим установленный **КОМПАС-3D v19** или выше
@@ -60,6 +60,7 @@
 
 ---
 ## Скачать
-[Releases]([https://github.com/yourusername/saveas/releases](https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe))
+[Releases](https://github.com/kilia07/sohranyator/releases)
+
 
 **Автор:** [@kilia07](https://github.com/kilia07)
