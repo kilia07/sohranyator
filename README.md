@@ -52,4 +52,7 @@
 
 ---
 
+## Скачать
+https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe
+
 **Автор:** [@kilia07](https://github.com/kilia07)
