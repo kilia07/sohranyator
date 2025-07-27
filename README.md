@@ -52,11 +52,12 @@
 
 ## 🖼 Скриншоты интерфейса
 
-### 🌙 Тёмная тема
-![Тёмная тема](assets/Dark.png)
-
 ### ☀️ Светлая тема
-![Светлая тема](assets/Light.png)
+<img src="assets/Light_small.png" width="600"/>
+
+### 🌙 Тёмная тема
+<img src="assets/Dark_small.png" width="600"/>
+
 ---
 ## Скачать
 [Releases]([https://github.com/yourusername/saveas/releases](https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe))
