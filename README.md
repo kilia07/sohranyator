@@ -51,10 +51,6 @@
 - Взаимодействие с КОМПАС API
 
 ---
-## Скриншоты
-| Темная тема | Светлая тема |
-|-------------|-------------|
-| ![Dark](https://example.com/Dark.png) | ![Light](https://example.com/Light.png) |
 ## Скачать
 https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe
 
