@@ -53,10 +53,10 @@
 ## 🖼 Скриншоты интерфейса
 
 ### ☀️ Светлая тема
-<img src="assets/Light.png" width="600"/>
+<img src="assets/Light.png" width="400"/>
 
 ### 🌙 Тёмная тема
-<img src="assets/Dark.png" width="600"/>
+<img src="assets/Dark.png" width="400"/>
 
 ---
 ## Скачать
