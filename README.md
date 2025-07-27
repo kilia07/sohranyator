@@ -50,8 +50,15 @@
 - Поддержка тем оформления
 - Взаимодействие с КОМПАС API
 
+## 🖼 Скриншоты интерфейса
+
+### 🌙 Тёмная тема
+![Тёмная тема](assets/Dark.png)
+
+### ☀️ Светлая тема
+![Светлая тема](assets/Light.png)
 ---
 ## Скачать
-https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe
+[Releases]([https://github.com/yourusername/saveas/releases](https://github.com/kilia07/sohranyator/blob/main/Сохранятор.exe))
 
 **Автор:** [@kilia07](https://github.com/kilia07)
